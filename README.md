@@ -13,10 +13,11 @@ Solutions are coded using C#
 # Easy Problems
 
 |          Subdomain          |                                                           Challenge                                                          | Level |                                                                                        Solution                                                                                       |
-|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|
+:-----------------------------------------------------------------------------------------------------------------------------:|
 |      Basic Programming      | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                                       |    Easy   | 
 [Solution.java](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/SolveMeFirstSolution.cs)
 |
-|      ACM ICPC Team      | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)                                                             |   Easy    | 
+ACM ICPC Team      | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)                                                             |   Easy    | 
 [ACMICPCTeamSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/ACMICPCTeamSolution.cs)                            
 |
