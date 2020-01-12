@@ -10,8 +10,12 @@
 
 Solutions are coded using C#
 
-# General Programming
+# Easy Problems
 
-|          Subdomain          |                                                           Challenge                                                          | Points |                                                                                        Solution                                                                                       |
+|          Subdomain          |                                                           Challenge                                                          | Level |                                                                                        Solution                                                                                       |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|      Basic Programming      | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                                       |    1   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/General%20Programming/Basic%20Programming/Solve%20Me%20First/Solution.java)                          |
+| Basic Programming | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)  | Easy  | 
+[SolveMeFirstSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/SolveMeFirstSolution.cs) |
+
+| ACMICPCTeamSolution | [Solve Me First](https://www.hackerrank.com/challenges/acm-icpc-team)  | Easy  | 
+[SolveMeFirstSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/ACMICPCTeamSolution.cs) |
