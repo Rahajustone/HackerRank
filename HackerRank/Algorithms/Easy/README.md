@@ -10,12 +10,6 @@
 
 Solutions are coded using C#
 
-# Medium Problems
-|          Name          		|    Challenge       																				| Level 		|      Solution     |
-|:---------------------------:|:------------------------------------------------------------------------:|:------:|:--------------------------------------------------:|
-|   Extra Long Factorials  		| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)  			|    Medium  	|[ExtraLongFactorialsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/ExtraLongFactorialsSolution.cs) |
-| Comming Soon ...| ...|...|...| 
-
 
 # Easy Problems
 
