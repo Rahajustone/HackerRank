@@ -80,4 +80,5 @@ Solutions are coded using C#
 |  Utopian Tree						| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)									|    Easy   |[UtopianTreeSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/UtopianTreeSolution.cs) |
 |  Viral Advertising				| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)						|    Easy   |[ViralAdvertisingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/ViralAdvertisingSolution.cs) |
 |  XOR Strings						| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor)										|    Easy   |[XorStringsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/XorStringsSolution.cs) |
+|  Service Lane						| [Service Lane](https://www.hackerrank.com/challenges/service-lane)									|    Easy   |[XorStringsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/XorStringsSolution.cs) |
 
