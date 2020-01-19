@@ -25,8 +25,9 @@ namespace HackerRank
 
             //});
 
-            var res = SuperReducedStringSolution.SuperReducedString("aaabbccdddd");
-            Console.WriteLine(res);
+            bool a;
+            Console.WriteLine(a);
+
             Console.Read();
         }
     }
