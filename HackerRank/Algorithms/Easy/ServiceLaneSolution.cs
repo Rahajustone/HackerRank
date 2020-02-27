@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace HackerRank.Algorithms.Easy
 {
@@ -7,21 +8,19 @@ namespace HackerRank.Algorithms.Easy
     {
         public static int[] ServiceLane(int n, int[][] cases)
         {
-            Console.WriteLine(cases.Length);
-            Console.WriteLine(cases[0].Length);
-
-
             var serviceList = new List<int>();
 
-            for(int i=0; i< cases.Length; i++)
+            for(int i=1; i< cases.Length; i++)
             {
-                for(int j = 0; j< cases[i].Length; j++)
+                int min = cases[0][cases[i][0]];
+                for (int j = cases[i][0]; j < cases[i][1]; j++)
                 {
-                    Console.WriteLine(cases[i][j]);
+                    if (min > cases[0][j])
+                        min = cases[0][j];
                 }
+
+                serviceList.Add(min);
             }
-
-
 
             return serviceList.ToArray();
         }

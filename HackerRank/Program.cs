@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Numerics;
 using HackerRank.Algorithms.Easy;
+using HackerRank.Algorithms.Medium;
 
 namespace HackerRank
 { 
@@ -13,21 +14,32 @@ namespace HackerRank
 
         static void Main(string[] args)
         {
-            // Call the Class which you want
-            //ServiceLaneSolution.ServiceLane(8, new int[][]
-            //{
-            //    new int[] { 2, 3, 1, 2, 3, 2, 3, 3 },
-            //    new int[] {0, 3},
-            //    new int[] {4, 6},
-            //    new int[] {6, 7},
-            //    new int[] {3, 5},
-            //    new int[] {0, 7}
+            // 
+            var doubleDimArray = new int[][]
+            {
+                new[] {1,2,3,4,5,6,7,8,9,0  },
+                new [] {0,9,8,7,6,5,4,3,2,1  },
+                new [] {0,9,8,7,6,5,4,3,2,1,  },
+                new [] {1,1,1,1,1,1,1,1,1,1  },
+                new [] {1,1,1,1,1,1,1,1,1,1  },
+                new [] {1, 2, 3, 4, 6},
+                new [] {1, 2, 3, 4, 6},
+                new [] {1, 2, 3, 4, 6},
+                new [] {1, 2, 3, 4, 6}
 
-            //});
+            };
 
-            bool a;
-            Console.WriteLine(a);
+            var doubleDimArraySecond = new int[][]
+            {
+                new[] { 3, 4},
+                new [] { 3, 4},
+                new [] { 3, 4}
 
+            };
+            var result = 
+            GridSearchSolution.GridSearch(doubleDimArray, doubleDimArraySecond);
+
+            Console.WriteLine(result);
             Console.Read();
         }
     }
