@@ -14,7 +14,9 @@ Solutions are coded using C#
 |          Name          		|    Challenge       																				| Level 		|      Solution     |
 |:---------------------------:|:------------------------------------------------------------------------:|:------:|:--------------------------------------------------:|
 |   Extra Long Factorials  		| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)  			|    Medium  	|[ExtraLongFactorialsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/ExtraLongFactorialsSolution.cs) |
-| Comming Soon ....|...|...|...|
+|   The Grid Search             | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)  	                    |    Medium  	|[GridSearchSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/GridSearchSolution.cs) |
+|   Pairs                       | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)  	                                |    Medium  	|[PairsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/PairsSolution.cs) |
+| Comming Soon ...| ...|...|...| 
 
 
 # Easy Problems
@@ -80,5 +82,6 @@ Solutions are coded using C#
 |  Utopian Tree						| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)									|    Easy   |[UtopianTreeSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/UtopianTreeSolution.cs) |
 |  Viral Advertising				| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)						|    Easy   |[ViralAdvertisingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/ViralAdvertisingSolution.cs) |
 |  XOR Strings						| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor)										|    Easy   |[XorStringsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/XorStringsSolution.cs) |
-|  Service Lane						| [Service Lane](https://www.hackerrank.com/challenges/service-lane)									|    Easy   |[XorStringsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/XorStringsSolution.cs) |
-
+|  Super Reduced String				| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)							|    Easy   |[SuperReducedStringSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/SuperReducedStringSolution.cs) |
+|  Strong Password					| [Strong Password](https://www.hackerrank.com/challenges/strong-password)								|    Easy   |[StrongPasswordSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/StrongPasswordSolution.cs) |
+|  Big Sorting					    | [Big Sorting ](https://www.hackerrank.com/challenges/big-sorting/problem)								|    Easy   |[BigSortingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/BigSortingSolution.cs) |
