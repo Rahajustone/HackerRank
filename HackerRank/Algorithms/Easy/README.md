@@ -75,4 +75,5 @@ Solutions are coded using C#
 |  Viral Advertising				| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)						|    Easy   |[ViralAdvertisingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/ViralAdvertisingSolution.cs) |
 |  XOR Strings						| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor)										|    Easy   |[XorStringsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/XorStringsSolution.cs) |
 |  Super Reduced String				| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)							|    Easy   |[SuperReducedStringSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/SuperReducedStringSolution.cs) |
-
+|  Strong Password					| [Strong Password](https://www.hackerrank.com/challenges/strong-password)								|    Easy   |[StrongPasswordSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/StrongPasswordSolution.cs) |
+|  Big Sorting					    | [Big Sorting ](https://www.hackerrank.com/challenges/big-sorting/problem)								|    Easy   |[BigSortingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/BigSortingSolution.cs) |

@@ -14,4 +14,6 @@ Solutions are coded using C#
 |          Name          		|    Challenge       																				| Level 		|      Solution     |
 |:---------------------------:|:------------------------------------------------------------------------:|:------:|:--------------------------------------------------:|
 |   Extra Long Factorials  		| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)  			|    Medium  	|[ExtraLongFactorialsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/ExtraLongFactorialsSolution.cs) |
-| Comming Soon ....| ... | ...  | .. |
+|   The Grid Search             | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)  	                    |    Medium  	|[GridSearchSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/GridSearchSolution.cs) |
+|   Pairs                       | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)  	                                |    Medium  	|[PairsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/PairsSolution.cs) |
+| Comming Soon ...| ...|...|...| 
