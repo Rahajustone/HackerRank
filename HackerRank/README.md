@@ -14,6 +14,7 @@ Solutions are coded using C#
 |          Name          		|    Challenge       																				| Level 		|      Solution     |
 |:---------------------------:|:------------------------------------------------------------------------:|:------:|:--------------------------------------------------:|
 |   Extra Long Factorials  		| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)  			|    Medium  	|[ExtraLongFactorialsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/ExtraLongFactorialsSolution.cs) |
+|   The Grid Search             | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)  	                    |    Medium  	|[GridSearchSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Medium/GridSearchSolution.cs) |
 | Comming Soon ...| ...|...|...| 
 
 
@@ -82,8 +83,4 @@ Solutions are coded using C#
 |  XOR Strings						| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor)										|    Easy   |[XorStringsSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/XorStringsSolution.cs) |
 |  Super Reduced String				| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)							|    Easy   |[SuperReducedStringSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/SuperReducedStringSolution.cs) |
 |  Strong Password					| [Strong Password](https://www.hackerrank.com/challenges/strong-password)								|    Easy   |[StrongPasswordSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/StrongPasswordSolution.cs) |
-<<<<<<< HEAD
 |  Big Sorting					    | [Big Sorting ](https://www.hackerrank.com/challenges/big-sorting/problem)								|    Easy   |[BigSortingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/BigSortingSolution.cs) |
-=======
-|  Big Sorting					    | [Big Sorting ](https://www.hackerrank.com/challenges/big-sorting/problem)								|    Easy   |[BigSortingSolution.cs](https://github.com/Rahajustone/HackerRank/blob/master/HackerRank/Algorithms/Easy/StrongPasswordSolution.cs) |
->>>>>>> 30d32427a71d8cc5c890b201882e7e052cd29714
