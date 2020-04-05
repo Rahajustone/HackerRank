@@ -8,24 +8,6 @@ namespace HackerRank.Algorithms.Medium
     public class PairsSolution
     {
 
-        // Using hash Map
-        public int PairsWithHashMap(int k, int[] arr)
-        {
-            int equalDiffElemntsCount = 0;
-
-            var hashmap = new List<bool>();
-
-            for (int i = 0; i < arr.Length; i++)
-            {
-                hashmap[arr[i]] = true;
-            }
-
-
-
-
-
-        }
-
         //
         public int Pairs(int k, int[] arr)
         {
