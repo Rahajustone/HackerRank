@@ -14,12 +14,18 @@ namespace HackerRank
 
         static void Main(string[] args)
         {
-            var res = EncryptionSolution.Encryption("haveaniceday");
+
+            var str = "Hello My name is name";
+
+            Console.WriteLine(BiggerIsGreaterSolution.GeneratedStr("abdc"));
 
 
-            Console.WriteLine(res);
+            //var res = EncryptionSolution.Encryption("haveaniceday");
+
+
+            //Console.WriteLine(res);
             //int floor = (int)Math.Floor( (decimal)Math.Sqrt(12));
-            
+
             //int ceil = (int)Math.Ceiling( (decimal)Math.Sqrt(12));
 
             //Console.WriteLine($"Floor:{floor}");
